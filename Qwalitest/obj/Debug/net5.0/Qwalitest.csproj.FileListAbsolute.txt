@@ -1,0 +1,15 @@
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.exe
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.deps.json
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.runtimeconfig.json
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.runtimeconfig.dev.json
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.dll
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\ref\Qwalitest.dll
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\bin\Debug\net5.0\Qwalitest.pdb
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.AssemblyInfoInputs.cache
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.AssemblyInfo.cs
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.csproj.CoreCompileInputs.cache
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.dll
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\ref\Qwalitest.dll
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.pdb
+C:\Users\Qwalisoft Inc\source\repos\Qwalitest\Qwalitest\obj\Debug\net5.0\Qwalitest.genruntimeconfig.cache
